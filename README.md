@@ -19,3 +19,5 @@ Now you can start the program by just running the bpm.py with python3 after you 
 `python3 bpm.py`
 
 Enjoy :)
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=toshydev&repo=bpm-metronome&countColor=%237B1E7A)
